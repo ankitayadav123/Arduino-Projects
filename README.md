@@ -6,4 +6,4 @@ In this project, I have implemented a simple Arduino based hand gesture control 
 ### Setup
 ![view2](https://user-images.githubusercontent.com/43942422/112609455-8f1d1b80-8e41-11eb-82f3-a10e42259d22.jpeg)
 ![view3](https://user-images.githubusercontent.com/43942422/112609495-993f1a00-8e41-11eb-9421-a32b4f02c363.jpeg)
-### Working
+
